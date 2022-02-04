@@ -12,7 +12,7 @@
 
 
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehakalbande&theme=dark&layout=compact&align=right&width=48%)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehakalbande&theme=dark&layout=compact&align=center&width=48%)
 ---
 <!--
 **nehakalbande/nehakalbande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
