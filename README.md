@@ -5,13 +5,15 @@
 
 
 
-
 <!-- [![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehakalbande&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/nehakalbande/github-readme-stats) -->
 <img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=nehakalbande&show_icons=true&theme=radical&count_private=true'/>
 <!-- <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nehakalbande&count_private=true&theme=radical" alt="nehakalbande"/> -->
-
 <!-- ![Ṇeha's github activity graph](https://activity-graph.herokuapp.com/graph?username=nehakalbande&theme=dracula) -->
 
+
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehakalbande&theme=dark&layout=compact&align=right&width=48%)
+---
 <!--
 **nehakalbande/nehakalbande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
