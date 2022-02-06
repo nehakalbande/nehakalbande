@@ -1,4 +1,4 @@
-## Hey! I'm Neha Kalbande. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align='center'> Hey! I'm Neha Kalbande. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 [![GitHub nehakalbande](https://img.shields.io/github/followers/nehakalbande?label=follow&style=social)](https://github.com/nehakalbande)
 [![Linkedin: Neha Kalbande](https://img.shields.io/badge/-Neha%20Kalbande-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neha-kalbande-314ab71a7/)](https://www.linkedin.com/in/neha-kalbande-314ab71a7/)
