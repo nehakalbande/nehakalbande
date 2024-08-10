@@ -5,9 +5,6 @@
 
 
 
-## Stats📶
-| <a href="https://github.com/nehakalbande/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nehakalbande&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neha's github stats" /></a> | <a href="https://github.com/nehakalbande/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehakalbande&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
