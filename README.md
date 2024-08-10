@@ -13,7 +13,7 @@
 <p align = "center">
  
 [<img src ="https://img.shields.io/github/followers/nehakalbande?label=follow&style=social">](https://github.com/nehakalbande)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/neha-kalbande-314ab71a7/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/neha-kalbande/)
 </p>
 
 <!--
